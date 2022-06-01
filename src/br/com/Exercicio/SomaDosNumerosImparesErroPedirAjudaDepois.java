@@ -7,8 +7,8 @@ public class SomaDosNumerosImparesErroPedirAjudaDepois {
         int somaImp = 0, multPar = 1;
 
         for (i=0;i<=30;i++){
-            if(i%2 == 0){
-                multPar = multPar*i;
+            if(i%2 == 1){
+                multPar = multPar+i;
                 System.out.println(multPar);
             }
             if (i%2 == 1) {

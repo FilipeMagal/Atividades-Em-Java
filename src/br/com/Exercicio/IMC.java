@@ -19,7 +19,7 @@ public class IMC {
         potencia = altura*altura;
         IMC = peso/potencia;
 
-        System.out.println("Olá "+nome+", nós calculamos e chegamos ao resultado de que seu br.com.Exercicio.IMC e de: "+IMC);
+        System.out.println("Olá "+nome+", nós calculamos e chegamos ao resultado de que seu IMC e de: "+IMC);
         if (IMC <= 19){
             System.out.printf("\nVoce esta abaixo do peso");
         }

@@ -27,5 +27,6 @@ public class PessoaJuridicaLuana {
         PJ.setIdade(25);
 
         System.out.println("#"+ id +" "+PJ);
+        System.out.println("#"+ id +" "+PJ);
     }
 }

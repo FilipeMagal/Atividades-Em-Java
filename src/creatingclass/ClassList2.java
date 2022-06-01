@@ -35,7 +35,6 @@ public class ClassList2 {
         this.cpf = cpf;
     }
 
-    @Override
     public String toString() {
         return "name= " + name + ", tell= " + tell + ", cpf= " + cpf+"\n";
     }
