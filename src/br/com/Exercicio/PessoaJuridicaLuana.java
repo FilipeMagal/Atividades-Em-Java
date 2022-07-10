@@ -10,13 +10,13 @@ public class PessoaJuridicaLuana {
         Scanner sc = new Scanner(System.in);
 
 
-            System.out.print("Diga-me o seu nome: ");
+            System.out.print("-Diga-me o seu nome: ");
             String nome = sc.nextLine();
-            System.out.print("Informe o seu e-mail: ");
+            System.out.print("-Informe o seu e-mail: ");
             String email = sc.nextLine();
-            System.out.print("Fale a sua idade: ");
+            System.out.print("-Fale a sua idade: ");
             Integer idade = sc.nextInt();
-            System.out.print("Diga o seu ID: ");
+            System.out.print("-Diga o seu ID: ");
             Integer id = sc.nextInt();
             PessoaJuridica PJ = new PessoaJuridica(nome, idade, email);
 
