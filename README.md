@@ -1,3 +1,3 @@
-# Lista-Em-Java-
-Lista em java pelo intellij
+# Atividades-Em-Java-
+Atividades feitas no intellij durante o meu aprendizado
 "# Atividades_Java" 
